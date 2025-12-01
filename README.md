@@ -8,7 +8,7 @@ I am a recent graduate from WGU with a strong interest in security-related techn
 ## Objective
 
 
-My studies at WGU have given me the ambition to put my knowledge to use in the real world. I am seeking opportunities to gain experience, such as an internship, to further my self-improvement in the field.
+My studies at WGU have given me the ambition to put my knowledge to use in the real world. I am seeking opportunities to gain experience to further my self-improvement in the field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
