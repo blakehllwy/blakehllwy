@@ -15,7 +15,7 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory configuration and Monitoring          | <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,5 +58,5 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>
+- ...
