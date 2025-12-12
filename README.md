@@ -11,38 +11,40 @@ I am a recent graduate from WGU with a strong interest in security-related techn
 My studies at WGU have given me the ambition to put my knowledge to use in the real world. I am seeking opportunities to gain experience to further my self-improvement in the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory configuration and Monitoring          | <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory configuration and Monitoring/Telemetry generation and analysis| <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>|
+| Network Traffic Monitoring and Attack Detection |Planned|
+| Security Automation with Shuffle SOAR         |Planned|
+| Incident Response Planning and Execution      |Planned|
+| Case Management with TheHive                  |Planned|
+| Scripting and Automation for Threat Mitigation |Planned|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white"/>
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-4B275F?style=for-the-badge&logo=&logoColor=white"/>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Testing
+<div>
+    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-FF4500?style=for-the-badge&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-THC--Hydra-6A5ACD?style=for-the-badge&logo=&logoColor=white"/>
 </div>
 
 ## Certifications
