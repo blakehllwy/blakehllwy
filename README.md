@@ -1,5 +1,5 @@
 # Hello, I'm Blake
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/blake-holloway-358974271"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
@@ -16,7 +16,7 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory configuration and Monitoring/Telemetry generation and analysis| <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>|
-| Network Traffic Monitoring and Attack Detection |Planned|
+| Domain request monitoring and blocking| <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">DNS Sinkhole</a>|
 | Security Automation with Shuffle SOAR         |Planned|
 | Incident Response Planning and Execution      |Planned|
 | Case Management with TheHive                  |Planned|
@@ -29,6 +29,8 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white"/>
+
 </div>
 
 ### Endpoint
@@ -61,4 +63,4 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 
 ## Projects
 - <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>
-- ...
+- <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">DNS Sinkhole</a>
