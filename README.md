@@ -16,7 +16,7 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory configuration and Monitoring/Telemetry generation and analysis| <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>|
-| Domain request monitoring and blocking| <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">DNS Sinkhole</a>|
+| Domain request monitoring and blocking| <a href="https://github.com/blakehllwy/DNS-Sinkhole/tree/main">DNS Sinkhole</a>|
 | Security Automation with Shuffle SOAR         |Planned|
 | Incident Response Planning and Execution      |Planned|
 | Case Management with TheHive                  |Planned|
@@ -63,4 +63,5 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 
 ## Projects
 - <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a>
-- <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">DNS Sinkhole</a>
+
+- <a href="https://github.com/blakehllwy/DNS-Sinkhole/tree/main">DNS Sinkhole</a>
