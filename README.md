@@ -18,7 +18,7 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 | Active Directory configuration and Monitoring/Telemetry generation and analysis | <a href="https://github.com/blakehllwy/Active-Directory-Demonstration/tree/main">Active Directory Demonstration</a> |
 | Domain request monitoring and blocking | <a href="https://github.com/blakehllwy/DNS-Sinkhole/tree/main">DNS Sinkhole</a> |
 | Vulnerability discovery and management | <a href="https://github.com/blakehllwy/Nessus-Vulnerability-Management/tree/main">Nessus Vulnerability Management</a> |
-| Incident Response Planning and Execution      |Planned|
+| Configuring IDS/IPS and writing rules to analyze and log network traffic | <a href="https://github.com/blakehllwy/Configuring-Snort/tree/main">Configuring Snort</a> |
 | Case Management with TheHive                  |Planned|
 | Scripting and Automation for Threat Mitigation |Planned|
 
@@ -30,6 +30,8 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Snort-3498DB?style=for-the-badge&logo=&logoColor=white"/>
+
 
 </div>
 
@@ -69,3 +71,6 @@ My studies at WGU have given me the ambition to put my knowledge to use in the r
 - <a href="https://github.com/blakehllwy/DNS-Sinkhole/tree/main">DNS Sinkhole</a>
 
 - <a href="https://github.com/blakehllwy/Nessus-Vulnerability-Management/tree/main">Nessus Vulnerability Management</a>
+
+- <a href="https://github.com/blakehllwy/Configuring-Snort/tree/main">Configuring Snort</a>
+
